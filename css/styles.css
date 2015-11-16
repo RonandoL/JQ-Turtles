@@ -1,0 +1,11 @@
+img {
+  width: 300px;
+}
+
+.top-p {
+  margin-top: 15px;
+}
+
+#alligator, #diamond, #box, #red-ear-slider, #tortoise {
+  display: none;
+}
